@@ -1,0 +1,32 @@
+.likes-ol{
+    color:red;
+    }
+#likes-ol{
+    color:green;
+}
+
+.dislikes-ol{
+    color:blue;
+}
+
+#child-dislikes-three{
+    color:purple;
+    text-decoration-color: azure;
+    -moz-text-decoration-color: azure;
+    text-decoration: line-through;
+}
+
+.child-ol-likes{
+    text-decoration:line-through;
+}
+#child-ol-one{
+    text-decoration: none;
+}
+#child-ol-five{
+    text-decoration:overline;
+}
+
+
+.likes-ul{
+    color:red;
+}
